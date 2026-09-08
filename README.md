@@ -1,6 +1,6 @@
 # Itaú
 
-Diretrizes de design e identidade visual do projeto Itaú[cite: 1].
+Diretrizes de design e identidade visual do projeto Itaú.
 
 ## 🎨 Tipografia
 - **Fonte:** Poppins
