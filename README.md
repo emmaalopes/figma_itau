@@ -67,12 +67,6 @@ A paleta foi dividida em grupos de tonalidades para garantir flexibilidade e con
 
 ---
 
-## ♿ Contraste e Acessibilidade
-
-O projeto inclui validações de contraste aplicadas sobre diferentes fundos e combinações de cores para garantir que os textos (desde a escala *Small 14px* até *H1 40px*) estejam legíveis e de acordo com as diretrizes da **WCAG**.
-
----
-
 ## 🛠️ Ferramentas Utilizadas
 
 - **[Figma](https://www.figma.com/)** — Construção dos componentes, tokens de cor, estilos de texto e layout.
