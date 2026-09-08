@@ -11,5 +11,5 @@ Diretrizes de design e identidade visual do projeto Itaú.
 - **Primárias (Laranja):** `#FF8133` | `#FF6200` | `#CC4E00`
 - **Secundárias (Azul):** `#539AE9` | `#267FE3` | `#1866BE`
 - **Neutras (Dark / Light):** `#262323` | `#F2F5F7`
-- **Danger (Erro):** `#D11C00`
-- **Success (Sucesso):** `#52D65F`
+- **Danger:** `#D11C00`
+- **Success:** `#52D65F`
